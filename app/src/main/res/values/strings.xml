@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BIDINN Project</string>
+    <string name="bid_karo_in">bid karo  inn karo</string>
+    <string name="continue_wi">Continue with Google</string>
+    <string name="continue_as">continue as a guest</string>
+    <string name="bid_karo_in2">bid karo INN karo</string>
+
 </resources>

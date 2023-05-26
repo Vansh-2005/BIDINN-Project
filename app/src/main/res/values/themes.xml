@@ -6,4 +6,25 @@
     </style>
 
     <style name="Theme.BIDINNProject" parent="Base.Theme.BIDINNProject" />
+    <style name="bid_karo_in">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">0.04</item>
+        <item name="android:textColor">#61009D</item>
+    </style>
+
+    <style name="continue_wi">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <!-- styles.xml -->
+    <style name="continue_as">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#61009D</item>
+    </style>
+
+    <style name="bid_karo_in2">
+        <item name="android:textSize">32sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
 </resources>

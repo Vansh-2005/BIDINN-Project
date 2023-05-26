@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_list_property"
+        android:title="List Your Property"
+         />
+    <item
+        android:id="@+id/menu_terms_conditions"
+        android:title="Terms &amp; Conditions"
+         />
+    <item
+        android:id="@+id/menu_privacy_policy"
+        android:title="Privacy Policy"
+        />
+</menu>
