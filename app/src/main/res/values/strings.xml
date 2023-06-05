@@ -4,5 +4,10 @@
     <string name="continue_wi">Continue with Google</string>
     <string name="continue_as">continue as a guest</string>
     <string name="bid_karo_in2">bid karo INN karo</string>
+    <string name="otp_verific">OTP Verification</string>
+    <string name="enter_the_o">Enter the OTP received on the given number\ni.e., xxxxxx6149</string>
+    <string name="sec">120 sec</string>
+    <string name="didn_t_rece">Didn\'t receive? resend</string>
+    <string name="change_the_">Change the mobile number</string>
 
 </resources>
